@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyCN999qjFgTXHLmozPOH2uYoJUqkOSr3tA</string>
+	<string>AIzaSyDEJRn-Z01XXs3o-nUJg2s--7vF54i5E2U</string>
 	<key>GCM_SENDER_ID</key>
-	<string>231801103147</string>
+	<string>898271352726</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.video</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-firebase-5d975</string>
+	<string>live-stream-1bddb</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-firebase-5d975.appspot.com</string>
+	<string>live-stream-1bddb.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:231801103147:ios:ad52ecdbb985f0cb701b6e</string>
+	<string>1:898271352726:ios:8a7a835822e72703d7afb7</string>
 </dict>
 </plist>
