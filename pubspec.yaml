@@ -41,7 +41,7 @@ dependencies:
   camera: ^0.10.5+7
   uuid:
   path_provider: ^2.1.1
-  path: ^1.9.0
+  path: ^1.8.3
   flutter_camera: ^1.0.0
   image_picker: ^1.0.5
 flutter_camera: ^1.0.0
