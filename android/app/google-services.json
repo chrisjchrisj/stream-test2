@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "216954112551",
-    "project_id": "video-8ebc2",
-    "storage_bucket": "video-8ebc2.appspot.com"
+    "project_number": "15749859993",
+    "project_id": "live-stream-a",
+    "storage_bucket": "live-stream-a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:216954112551:android:2ad66830f358941a0adc02",
+        "mobilesdk_app_id": "1:15749859993:android:18684bbb82883ff9ef8608",
         "android_client_info": {
-          "package_name": "com.example.video"
+          "package_name": "com.company.live_stream_a"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDIeomWD_2BM9hYijW8gDrTJX6W2FI66lk"
+          "current_key": "AIzaSyBpwSsDX8yxJpgFv5s2dy0CV7H7WlzeJag"
         }
       ],
       "services": {
